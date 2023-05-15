@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ex3 {
+public class ThiagoSantos_Exercicio03 {
     public static void main(String [] args){
         System.out.println("Digite um valor em reais a ser convertido");
         Scanner input = new Scanner (System.in);
