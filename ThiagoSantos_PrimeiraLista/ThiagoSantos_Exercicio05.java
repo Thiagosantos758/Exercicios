@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ex5 {
+public class ThiagoSantos_Exercicio05 {
     public static void main(String[] args){
         System.out.println("Digite sua idade: ");
         Scanner input = new Scanner (System.in);
