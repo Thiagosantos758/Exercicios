@@ -1,9 +1,14 @@
-import java.util.Scanner;
+/*
+* Descrição:
+* Autor: Thiago
+* Data: 15/05/2023
+*/
+import java.util.Scanner; //importou o tipo de variável Scanner
 public class ThiagoSantos_Exercicio01 {
     public static void main(String [] args){
-        Scanner input = new Scanner (System.in);
-        System.out.println("Digite um número");
-        double n1 = input.nextDouble();
+        Scanner input = new Scanner (System.in); //Faz com que a variável Input receba Scanner
+        System.out.println("Digite um número");//Mostra a mensagem na String
+        double n1 = input.nextDouble();//Faz com que o usuário possa atribuir um valor a n1
         System.out.println("Digite o segundo número");
         double n2 = input.nextDouble();
         System.out.println("Digite o terceiro número");
