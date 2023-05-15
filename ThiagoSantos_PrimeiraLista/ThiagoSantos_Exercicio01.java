@@ -1,5 +1,5 @@
 /*
-* Descrição:
+* Descrição: Recebe quatro números e os soma
 * Autor: Thiago
 * Data: 15/05/2023
 */
